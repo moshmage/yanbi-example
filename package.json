@@ -1,0 +1,19 @@
+{
+  "name": "yanbi-example",
+  "version": "1.0.0",
+  "description": "simple implementation of yanbi bot",
+  "main": "init.js",
+  "dependencies": {
+    "yanbi": "^0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshmage/yanbi-example.git"
+  },
+  "author": "moshmage@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moshmage/yanbi-node-irc/issues"
+  },
+  "homepage": "https://github.com/moshmage/yanbi-node-irc#readme"
+}
