@@ -21,3 +21,5 @@ EXAMPLE.prototype.rehasher = function () {
     Eventer.releaseEvent('join','#mmdev');
     console.log(this.name,'was rehashed');
 };
+
+module.exports = EXAMPLE;
